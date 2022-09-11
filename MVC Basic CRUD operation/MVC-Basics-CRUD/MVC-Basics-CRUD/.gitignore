@@ -448,9 +448,11 @@ $RECYCLE.BIN/
 ## Visual Studio Code
 ##
 .vscode/*
-.vs
+.vs/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .suo
+.dtbcache.v2
+/FileContentIndex
